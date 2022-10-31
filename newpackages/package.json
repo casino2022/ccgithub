@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "newpackages:toggle"
   },
-  "repository": "https://github.com/atom/newpackages",
+  "repository": "https://github.com/casino2022/newpackages",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
